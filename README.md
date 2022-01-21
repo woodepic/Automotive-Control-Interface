@@ -5,7 +5,7 @@ I wanted to add a button to my car for aftermarket heated windshield wipers, how
 
 Image of the control PCB and the button:
 
-![alt text](https://github.com/woodepic/Automotive-Control-Interface/blob/main/src/pcb.png "Control PCB") ![alt text](https://github.com/woodepic/Automotive-Control-Interface/blob/main/src/button.png "Button")
+![alt text](https://github.com/woodepic/Automotive-Control-Interface/blob/main/src/pcb.jpg "Control PCB") ![alt text](https://github.com/woodepic/Automotive-Control-Interface/blob/main/src/button.jpg "Button")
 
 I also wanted the button to look as though it belonged in the car. This led me to design and order a custom button. I designed a logo to indicate heated wipers, and ordered the button as a momentary, silver button, with a matching red backlight. Whenever the button is toggled on, a pulsing animation in the button's backlight begins. Whenever the button is off, the backlight matches that of other buttons, meaning in the daytime mode the backlight is off, and in the night-time mode the backlight is on. See the link at the bottom of this readme for a video demo. 
 
